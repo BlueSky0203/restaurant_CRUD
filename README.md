@@ -1,6 +1,6 @@
 # Restaurant
 
-![image](https://github.com/BlueSky0203/alpha_camp/blob/main/restaurant_CRUD/public/picture/restaurant.png)
+![image](https://github.com/BlueSky0203/restaurant_CRUD/blob/main/public/picture/restaurant.png)
 
 ## Introduction
 - Display restaurant data of homepage (image, name, category, rating)

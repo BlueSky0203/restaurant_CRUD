@@ -1,0 +1,1 @@
+index.handlebars rating沒辦法顯示出來
